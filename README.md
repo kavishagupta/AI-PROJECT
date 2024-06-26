@@ -8,3 +8,7 @@ This repository consists of the jupyter notebook along with the dataset used to 
 python
 
 jupyter notebook
+
+**DataSet Link**
+
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
